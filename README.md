@@ -21,5 +21,5 @@
 ## Result at epoch 60:
 ![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_60.jpg)
 
-## Result at epoch 65:
-![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_65.jpg)
+## Result at epoch 70:
+![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_70.jpg)
