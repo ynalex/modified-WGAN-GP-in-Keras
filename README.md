@@ -1,4 +1,6 @@
 # modified-WGAN-GP-in-Keras
+## Background
+This is an implentmentation of WGAN-GP introduced in "Improved Training of Wasserstein GANs" using deep convolutionatry network. The network was trained using the CelebA dataset.
 
 ## Result at epoch 1:
 ![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_1.jpg)
