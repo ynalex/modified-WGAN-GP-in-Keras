@@ -1,7 +1,7 @@
 # modified-WGAN-GP-in-Keras
 
-#Result at epoch 1:
-\\![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_1.jpg)
+## Result at epoch 1:
+![image](https://github.com/ynalex/modified-WGAN-GP-in-Keras/blob/main/photo/generated_image_at_epoch_1.jpg)
 
 Result at epoch 10:
 
